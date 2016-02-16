@@ -1,4 +1,6 @@
 (function($) {
+	//1ere modification
+
 	
 	/* --------------- vue1-------------------------- */
 	var UserInputView = Backbone.View.extend({
